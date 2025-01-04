@@ -10,8 +10,8 @@ Rock-Paper-Scissors Game 🎮
 
 Game Logic: Implements the traditional rules of Rock-Paper-Scissors:
 <br>Rock beats Scissors.
--Paper beats Rock. 
--Scissors beats Paper.
+<br>Paper beats Rock. 
+<br>Scissors beats Paper.
 
 
 -Enter your name when prompted. 
